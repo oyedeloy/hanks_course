@@ -1,4 +1,4 @@
-# Network Programmability Basics
+# Network Programmability Basics (Informative)
 
 Code, Examples, and Resources for the Network Programmability Basics Video Course
 
